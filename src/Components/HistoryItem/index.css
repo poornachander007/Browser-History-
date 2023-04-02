@@ -1,0 +1,28 @@
+.item_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.details_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.time {
+}
+
+.item_logo {
+}
+
+.domain_name {
+}
+
+.domain_url {
+}
+
+.delete_icon_button {
+  align-self: flex-end;
+}
+.delete_icon {
+}
